@@ -1,6 +1,6 @@
 # On-Chip MZI and Linear-Optical CNOT Gate
 
-Silicon photonics design for the **HardHaQ 2026 Photonics Challenge**, extended into a simulated two-qubit quantum gate.
+Silicon photonics design for the **HardHaQ 2026 Photonics Challenge**, extended into a simulated two-qubit quantum gate. This project won 2nd place in the challenge.
 
 - **Part I:** a 50:50 directional coupler and a Mach–Zehnder interferometer (MZI), designed with a mode solver and 3D FDTD in Tidy3D.
 - **Part II:** a probabilistic linear-optical CNOT gate built from the same coupler in PhotonForge and simulated with two photons.
